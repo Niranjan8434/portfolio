@@ -1,20 +1,20 @@
 export const projects = [
   {
+    title: 'Amazon Clone ',
+    description:"This Amazon Clone website is made for learning purpose. There are some functionality like  Add-To-Cart,Remove-To-Cart checkout, payment gateway,Search etc. This website is not yet completed.",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://github.com/Niranjan8434/amazon-clone',
+    visit: 'https://amazon-clone-nk.netlify.app/',
+    id: 0,
+  },
+  {
     title: 'WebRTC App',
     description: "I want to make private video chat without saving logs then, build and deploy a React based chat application using WebRTC.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: '',
     visit: 'https://video-chat-nnn.netlify.app/',
-    id: 0,
-  },
-  {
-    title: 'Unichat',
-    description: " This is a secure end-to-end encrypted Realtime Chat Application. I build this application using React.js, ChatEngine and Firebase",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: '',
-    visit: 'https://unichatn.netlify.app/',
     id: 1,
   },
   {
@@ -27,14 +27,16 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Amazon Clone ',
-    description:"This e-Commerce website is made for learning purpose. There are some functionality like payment gateway, Add-To-Cart, checkout, Search etc. This website is not yet completed.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Unichat',
+    description: " This is a secure end-to-end encrypted Realtime Chat Application. I build this application using React.js, ChatEngine and Firebase",
+    image: '/images/4.jpg',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: '',
+    visit: 'https://unichatn.netlify.app/',
     id: 3,
   },
+  
+  
   
 ];
 
