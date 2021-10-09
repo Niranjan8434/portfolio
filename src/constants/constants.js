@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Amazon Clone ',
     description:"This Amazon Clone website is made for learning purpose. There are some functionality like  Add-To-Cart,Remove-To-Cart checkout, payment gateway,Search etc. This website is not yet completed.",
-    image: '/images/2.png',
+    image: '/images/1.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/Niranjan8434/amazon-clone',
     visit: 'https://amazon-clone-nk.netlify.app/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'WebRTC App',
     description: "I want to make private video chat without saving logs then, build and deploy a React based chat application using WebRTC.",
-      image: '/images/3.jpg',
+      image: '/images/2.jpg',
       tags: ['React', 'WebRTC'],
     source: '',
     visit: 'https://video-chat-nnn.netlify.app/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Daily Blog',
     description: "Using JavaScript, Node.js, Express & MongoDB  build a Blog website - Anyone write their blog and post these post dynamically render in the home page.",
-      image: '/images/1.png',
+      image: '/images/3.png',
       tags: ['Node.js','MongoDB','Express',  'Heroku'],
     source: '',
     visit: 'https://morning-chamber-73935.herokuapp.com/',
