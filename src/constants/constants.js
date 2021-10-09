@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'Amazon Clone ',
-    description:"This Amazon Clone website is made for learning purpose. There are some functionality like  Add-To-Cart,Remove-To-Cart checkout, payment gateway,Search etc. This website is not yet completed.",
+    description:"This Amazon Clone website is made for learning purpose. There are some functionality like Add-To-Cart, Remove-To-Cart, Checkout, payment gateway, Search etc. This website is not yet completed.",
     image: '/images/1.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['React','firebase', 'JavaScript'],
     source: 'https://github.com/Niranjan8434/amazon-clone',
     visit: 'https://amazon-clone-nk.netlify.app/',
     id: 0,
